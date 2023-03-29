@@ -1,0 +1,7 @@
+docker ps -a
+
+docker exec -it  node-docker-compose-setup-mysql_server-1 mysql -u dan -p 
+
+lien cours : https://www.youtube.com/watch?v=FGMbbdOMxk4&list=PLy8DguObsSuaCa_D5vk-IaZdwueLcxvjs&index=7
+lien 2  : https://www.youtube.com/watch?v=pMAGe6nTkws&list=PLn6POgpklwWqaC1pdx02SrrgOaL2ZL7G0
+https://www.youtube.com/watch?v=t1zjlajR8Ck automatisation
